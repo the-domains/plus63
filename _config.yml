@@ -1,7 +1,7 @@
 name: Plus63
 favicon: null
-layout_spectrum: 0.2552201591897756
-typography_spectrum: 0.7905154395848513
+layout_spectrum: 1
+typography_spectrum: 0.25967
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.09849007008597255
+    - '#ffffff'
+    - '#fd9025'
+    - '#fdab55'
+    - '#fdc084'
+    - '#fde7cc'
+  brandStrength: 0.5625
   lightness: 0.7495689161587507
-  saturation: 0.6915629249997437
-  rhythmicContrast: 0.06363940075971186
+  saturation: 0.5
+  rhythmicContrast: 0.25
 purpose: []
