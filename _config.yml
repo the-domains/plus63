@@ -1,28 +1,40 @@
-name: Plus63
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.25967
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+layout_spectrum: 0
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.5
+  brandStrength: 0.5625
+  rhythmicContrast: 0.25
   brandColors:
     - '#ffffff'
     - '#fd9025'
     - '#fdab55'
     - '#fdc084'
     - '#fde7cc'
-  brandStrength: 0.5625
   lightness: 0.7495689161587507
-  saturation: 0.5
-  rhythmicContrast: 0.25
-purpose: []
+typography_spectrum: 0.172043
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Plus63
